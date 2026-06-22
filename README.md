@@ -6,7 +6,7 @@
 
 Building production-grade systems for complex operations — currently focused on garment manufacturing and industrial workflow automation.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bp@mesonlabs.ai)
 
 </div>
 
